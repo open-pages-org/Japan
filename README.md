@@ -22,6 +22,7 @@
 |Osaka	| Shinsekai - shoping and dining district -  Kushikatsu is a Japanese dish of deep-fried meat, seafood, or vegetables and deserts on bamboo skewers	| https://www.japan-guide.com/e/e4012.html | 
 |Osaka	| Dotonbori night time lights and food area, Kamigata Ukiyoe (woodblock printing) Museum	| | 		
 |Kyoto	| Arashiyama and Sagano - tenryuji temple,  bamboo groves and monkey park over the bridge - Sagaon scenic railway 25min journey				| https://www.japan-guide.com/e/e3912.html | 
+|Kyoto  | Former Imperial Villa Nijo-jo Castle | https://nijo-jocastle.city.kyoto.lg.jp/guide/pamphlet/?lang=en
 |Kyoto	| Kinkaku-ji (Golden) or Ginkakuji (Silver) pavilion UNESCO world heriatge sites	|	https://www.japan-guide.com/e/e3908.html | 
 |Kyoto	| Higashiyama district of traditional houses etc |https://www.japan-guide.com/e/e3959.html | 
 |Kyoto	| Fushimi Inari shrine - 1000 gates, 1 hr walk to top with restuarants and views of Kyoto	| https://www.japan-guide.com/e/e3915.html | 
