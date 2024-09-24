@@ -31,4 +31,4 @@ The Nozomi Shinkansen bullet train to Kyoto https://www.japan-experience.com/pla
 |Kyoto	| Arashiyama and Sagano - tenryuji temple,  bamboo groves and monkey park over the bridge - Sagaon scenic railway 25min journey				| https://www.japan-guide.com/e/e3912.html | 
 |Kyoto	| Kinkaku-ji (Golden) or Ginkakuji (Silver) pavilion UNESCO world heriatge sites	|	https://www.japan-guide.com/e/e3908.html | 
 |Kyoto	| Higashiyama district of traditional houses etc |https://www.japan-guide.com/e/e3959.html | 
-
+|Fuji | Chureito Pagoda viewing point of fuji | https://chureito-pagoda.com/summary/ |
